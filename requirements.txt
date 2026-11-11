@@ -16,7 +16,6 @@ rank-bm25==0.2.2
 
 # LLM providers
 google-genai==2.34.0
-llama-cpp-python==0.3.36
 transformers==4.57.1
 
 # Data processing

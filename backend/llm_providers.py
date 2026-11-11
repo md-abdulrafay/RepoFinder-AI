@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from llama_cpp import Llama
 
 load_dotenv()
 
@@ -40,6 +39,8 @@ def get_local_llm():
             raise FileNotFoundError(
                 f"Local model not found: {model_path}"
             )
+
+        from llama_cpp import Llama
 
         _local_llm = Llama(
             model_path=model_path,
