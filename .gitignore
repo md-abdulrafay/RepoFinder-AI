@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+repo/
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local AI models
+models/
+*.gguf
+
+# Generated FAISS indexes
+data/faiss_index/
+
+# Temporary files
+tempCodeRunnerFile.py
+.DS_Store
+*.log
+
+# IDE settings
+.vscode/
+.idea/

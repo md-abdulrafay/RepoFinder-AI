@@ -1,0 +1,136 @@
+[
+  {
+    "query": "Facebook groups and pages data scraper",
+    "relevant": [
+      "18520339/facebook-data-extraction",
+      "Mahdi-hasan-shuvo/facebook-automation-python",
+      "apurvmishra99/facebook-scraper-selenium",
+      "shaikhsajid1111/facebook_page_scraper",
+      "Mhmd-Hisham/selenium_facebook_scraper"
+    ]
+  },
+  {
+    "query": "Python Facebook Messenger chatbot",
+    "relevant": [
+      "hartleybrody/fb-messenger-bot",
+      "adeshpande3/Facebook-Messenger-Bot",
+      "enginebai/PyMessager",
+      "mayukh18/BlindChat",
+      "masnun/fb-bot"
+    ]
+  },
+  {
+    "query": "AI agent that creates and uploads YouTube videos",
+    "relevant": [
+      "darkzOGx/youtube-automation-agent",
+      "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "AhadRasheed/ai-youtube-agent",
+      "godwaino/faceless-youtube-agent",
+      "raunakpatil/youtube-agentic-ai-studio",
+      "mShubham18/Genify"
+    ]
+  },
+  {
+    "query": "Automated YouTube Shorts generator with AI voiceovers",
+    "relevant": [
+      "FujiwaraChoki/MoneyPrinter",
+      "rushindrasinha/youtube-shorts-pipeline",
+      "PaulJMaddison/ai-shorts-agent",
+      "Chamanrajragu/purffle-shorts",
+      "Swayamgen/AI-Automation-For-YT-Video-Free",
+      "poyrazemun/youtube-shorts-generator"
+    ]
+  },
+  {
+    "query": "YouTube video uploader with scheduling support",
+    "relevant": [
+      "dragonwolfshovel/youtube-uploader",
+      "adityajayshette143-ai/YouTube-shorts-uploader",
+      "bordoeljohn-dev/yta-tools"
+    ]
+  },
+  {
+    "query": "AI-powered social media automation platform",
+    "relevant": [
+      "Katzca/AutoSocial",
+      "lucaswalter/n8n-ai-automations",
+      "darkzOGx/youtube-automation-agent",
+      "Ahmad-Ali-Rafique/Mini-Brands-Reels-Generator"
+    ]
+  },
+  {
+    "query": "FastAPI backend with PostgreSQL and JWT authentication",
+    "relevant": [
+      "sabuhibrahim/fastapi-jwt-auth-full-example",
+      "ayoub3bidi/mercury",
+      "seapagan/fastapi-template",
+      "eslam5464/Fastapi-Template",
+      "jason810496/FastAPI-Vue-OAuth2",
+      "thehimel/learning-platform-api",
+      "yezz123/FRDP"
+    ]
+  },
+  {
+    "query": "FastAPI starter template with Supabase authentication",
+    "relevant": [
+      "AtticusZeller/fastapi_supabase_template",
+      "J0/fastapi-supabase-auth",
+      "supabase/supabase-py"
+    ]
+  },
+  {
+    "query": "FastAPI application for LangGraph agents and RAG",
+    "relevant": [
+      "IgnazioDS/langgraph-fastapi-starter",
+      "vstorm-co/full-stack-ai-agent-template"
+    ]
+  },
+  {
+    "query": "Python web scraping framework",
+    "relevant": [
+      "scrapy/scrapy",
+      "lorien/grab",
+      "orf/cyborg",
+      "howie6879/ruia",
+      "D4Vinci/Scrapling",
+      "estin/pomp",
+      "crawlcore/qcrawl",
+      "bomquote/transistor"
+    ]
+  },
+  {
+    "query": "Asynchronous Python web crawler",
+    "relevant": [
+      "howie6879/ruia",
+      "lorien/grab",
+      "crawlcore/qcrawl",
+      "estin/pomp",
+      "D4Vinci/Scrapling"
+    ]
+  },
+  {
+    "query": "Scrape eBay product listings using Python",
+    "relevant": [
+      "cpatrickalves/scraping-ebay",
+      "scrapy/scrapy"
+    ]
+  },
+  {
+    "query": "AI agent framework with multiple agents and workflows",
+    "relevant": [
+      "ptimilsina1/CrewAI-News-Automation",
+      "lucaswalter/n8n-ai-automations",
+      "IgnazioDS/langgraph-fastapi-starter",
+      "vstorm-co/full-stack-ai-agent-template"
+    ]
+  },
+  {
+    "query": "Python automation project using LangChain or CrewAI",
+    "relevant": [
+      "godwaino/faceless-youtube-agent",
+      "ptimilsina1/CrewAI-News-Automation",
+      "IgnazioDS/langgraph-fastapi-starter",
+      "raunakpatil/youtube-agentic-ai-studio"
+    ]
+  }
+]
